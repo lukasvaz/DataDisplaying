@@ -1,0 +1,18 @@
+
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
+$primary: $indigo-700;
+$body-bg:$purple-900;
+$body-color: $white;
+
+$theme-colors: (
+  "primary": $primary,
+  "danger": $danger
+);
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+option:hover {
+    background-color: $red; 
+  }
+

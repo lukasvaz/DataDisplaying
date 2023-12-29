@@ -1,0 +1,214 @@
+{
+    "0": {
+        "nombre": "manzana",
+        "datos": [
+            {
+                "discount_price": [
+                    3000,
+                    7000
+                ]
+            },
+            {
+                "SKU": [
+                    3519305786,
+                    6404549409
+                ]
+            },
+            {
+                "market": [
+                    "Market9",
+                    "Market16"
+                ]
+            }
+        ],
+        "tamano_market": 2,
+        "rango": 4000
+    },
+    "1": {
+        "nombre": "peras",
+        "datos": [
+            {
+                "discount_price": [
+                    2000,
+                    4000,
+                    4000,
+                    7000
+                ]
+            },
+            {
+                "SKU": [
+                    8823927216,
+                    7331395269,
+                    6158253403,
+                    6741879000
+                ]
+            },
+            {
+                "market": [
+                    "Market2",
+                    "Market8",
+                    "Market15",
+                    "Market18"
+                ]
+            }
+        ],
+        "tamano_market": 4,
+        "rango": 5000
+    },
+    "2": {
+        "nombre": "bebida",
+        "datos": [
+            {
+                "discount_price": [
+                    4000,
+                    4000
+                ]
+            },
+            {
+                "SKU": [
+                    6897560397,
+                    6209226697
+                ]
+            },
+            {
+                "market": [
+                    "Market4",
+                    "Market14"
+                ]
+            }
+        ],
+        "tamano_market": 2,
+        "rango": 0
+    },
+    "3": {
+        "nombre": "pizza",
+        "datos": [
+            {
+                "discount_price": [
+                    4000,
+                    2000
+                ]
+            },
+            {
+                "SKU": [
+                    2827553790,
+                    9543596056
+                ]
+            },
+            {
+                "market": [
+                    "Market10",
+                    "Market11"
+                ]
+            }
+        ],
+        "tamano_market": 2,
+        "rango": 2000
+    },
+    "4": {
+        "nombre": "polera",
+        "datos": [
+            {
+                "discount_price": [
+                    7000,
+                    3000,
+                    8000,
+                    3000
+                ]
+            },
+            {
+                "SKU": [
+                    2517242290,
+                    8355632946,
+                    5256782232,
+                    6567984360
+                ]
+            },
+            {
+                "market": [
+                    "Market5",
+                    "Market6",
+                    "Market7",
+                    "Market17"
+                ]
+            }
+        ],
+        "tamano_market": 4,
+        "rango": 5000
+    },
+    "5": {
+        "nombre": "tomate",
+        "datos": [
+            {
+                "discount_price": [
+                    1000,
+                    3000
+                ]
+            },
+            {
+                "SKU": [
+                    3045962240,
+                    8231356490
+                ]
+            },
+            {
+                "market": [
+                    "Market12",
+                    "Market13"
+                ]
+            }
+        ],
+        "tamano_market": 2,
+        "rango": 2000
+    },
+    "6": {
+        "nombre": "leche",
+        "datos": [
+            {
+                "discount_price": [
+                    1000,
+                    5000
+                ]
+            },
+            {
+                "SKU": [
+                    6039610956,
+                    7297232598
+                ]
+            },
+            {
+                "market": [
+                    "Market0",
+                    "Market19"
+                ]
+            }
+        ],
+        "tamano_market": 2,
+        "rango": 4000
+    },
+    "7": {
+        "nombre": "platano",
+        "datos": [
+            {
+                "discount_price": [
+                    9000,
+                    9000
+                ]
+            },
+            {
+                "SKU": [
+                    2046251817,
+                    7425837418
+                ]
+            },
+            {
+                "market": [
+                    "Market1",
+                    "Market3"
+                ]
+            }
+        ],
+        "tamano_market": 2,
+        "rango": 0
+    }
+}
